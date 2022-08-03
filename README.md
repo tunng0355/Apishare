@@ -1,9 +1,9 @@
 <p dir="auto"><b>cài đặt thư viện :</b></p>
-<pre>composer require tungmmo/api-share</pre>
+<pre>composer require tungmmo/apishare</pre>
 <p dir="auto"><b>Mở class :</b></p>
 
 <pre>
-   use tungmmo\apishare\facebook\http;
+   use Tungmmo\Apishare\Facebook\Http;
    $tungmmo = new http();
 </pre>
 
