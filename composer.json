@@ -1,0 +1,20 @@
+{
+    "name": "tungmmo/apishare",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tungmmo\\Apishare\\Facebook\\": "src"
+        },
+        "files": [
+            "src/facebook.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Vương Thanh Tùng",
+            "email": "thanhtungktfako1@gmail.com"
+        }
+    ],
+    "require": {}
+}
